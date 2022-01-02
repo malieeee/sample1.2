@@ -1,0 +1,21 @@
+body {
+    background-image: url(image/b3-276.gif);
+    background-color: #FFFFFF;
+}
+body footer {
+    background-color: #FFFFFF;
+}
+.container #carouselExampleIndicators2 {
+    background-color: #FFFFFF;
+}
+.container.text-center h1 strong {
+    background-color: #FFFFFF;
+}
+.container.text-center .img-fluid {
+    background-color: #FFFFFF;
+}
+body footer {
+    background-color: #E5E5E5;
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light {
+}
